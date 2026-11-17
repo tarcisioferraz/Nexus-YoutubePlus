@@ -1,43 +1,43 @@
 # Nexus YouTube+
 
-**Nexus YouTube+** é uma extensão para Google Chrome desenvolvida para aprimorar a experiência de uso do YouTube, oferecendo recursos extras de personalização, produtividade e controle da interface.
+**Nexus YouTube+** is a Google Chrome extension developed to enhance the YouTube user experience, offering extra customization, productivity, and interface control features.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- 🎨 **Personalização da interface:** ferramentas para adaptar a aparência do YouTube às suas preferências.
-- ⚡ **Desempenho otimizado:** recursos voltados para uma navegação mais fluida e uma experiência de uso mais confortável.
-- 🛠️ **Configurações personalizáveis:** opções para ativar, desativar e ajustar funcionalidades da extensão.
-- 🔄 **Sistema de atualização:** verificação de novas versões e suporte à atualização da extensão.
-- 🧩 **Integração com o YouTube:** funcionalidades adicionais integradas à interface da plataforma.
+- 🎨 **Interface customization:** tools to adapt YouTube's appearance to your preferences.
+- ⚡ **Optimized performance:** features designed for smoother navigation and a more comfortable user experience.
+- 🛠️ **Customizable settings:** options to enable, disable, and adjust extension features.
+- 🔄 **Update system:** checking for new versions and supporting extension updates.
+- 🧩 **YouTube integration:** additional features integrated directly into the platform's interface.
 
-## 📦 Instalação
+## 📦 Installation
 
-1. Baixe ou clone este repositório.
-2. Extraia os arquivos, caso estejam compactados.
-3. Abra `chrome://extensions` no Google Chrome.
-4. Ative o **Modo do desenvolvedor**.
-5. Clique em **Carregar sem compactação**.
-6. Selecione a pasta que contém o arquivo `manifest.json` da extensão.
+1. Download or clone this repository.
+2. Extract the files if they are compressed.
+3. Open `chrome://extensions` in Google Chrome.
+4. Enable **Developer mode**.
+5. Click **Load unpacked**.
+6. Select the folder containing the extension's `manifest.json` file.
 
-## 🔄 Atualizações
+## 🔄 Updates
 
-O Nexus YouTube+ possui um sistema de atualização para verificar novas versões do projeto. A disponibilidade e o funcionamento das atualizações dependem da configuração do repositório e do mecanismo de atualização implementado na versão instalada.
+Nexus YouTube+ features an update system to check for new versions of the project. The availability and operation of updates depend on the repository configuration and the update mechanism implemented in the installed version.
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 - JavaScript
 - Chrome Extensions API
 
-## 🔗 Repositório oficial
+## 🔗 Official Repository
 
 [github.com/tarcisioferraz/Nexus-YoutubePlus](https://github.com/tarcisioferraz/Nexus-YoutubePlus)
 
-## 📄 Licença
+## 📄 License
 
-Consulte os arquivos deste repositório para verificar os termos de licença e uso.
+Check the files in this repository for license and usage terms.
 
 ---
 
-Desenvolvido para tornar a experiência no YouTube mais personalizável e prática.
+Developed to make the YouTube experience more customizable and practical.
